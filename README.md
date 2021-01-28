@@ -1,16 +1,16 @@
-### Hi there 👋
+<a href="https://github.com/zhamalamazalieva">
+<img align="center" alt="Izumi94's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izumi94&show_icons=true&theme=radical" /></a>
+<a href="https://github.com/Izumi94">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Izumi94&layout=compact&theme=radical" />
+</a>
 
-<!--
-**Izumi94/Izumi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there, I am a Front-end Developer! 
 
-Here are some ideas to get you started:
+- 👩🏽‍💻 I'm working with ReactJS.
+- 📚 I'm learning NodeJS.
+- 🔎 I’m looking to collaborate on CSS, HTML, ReactJS
+- 📫 Contacts: [Telegram:@Izumi](https://t.me/Izumi), mobile: +996703997998, e-mail: aiza.izumi@gmail.com
+- 😉 Facts: 
+🗺 I can speak Russian, English, Ukrain, Japanese and Chinese languages.
+👩🏽‍🎨 I like do draw. ✈️ I like to travel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

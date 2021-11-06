@@ -12,5 +12,5 @@
 - 📫 Contacts: [Telegram:@Izumi](https://t.me/Izumi), mobile: +996703997998, e-mail: aiza.izumi@gmail.com
 - 😉 Facts: 
 🗺 I can speak Russian, English, Ukrain, Japanese and Chinese languages.
-👩🏽‍🎨 I like do draw. ✈️ I like to travel.
+👩🏽‍🎨 I like to draw. ✈️ I like to travel.
 
